@@ -1,5 +1,6 @@
 👋 Hi, I’m @zfla
 - 👀 I’m interested in Solidity smart contract development and machine learning/AI
+- 📈 I'm happy to work on blockchain projects, or to join a company as an intern 
 - 📫 How to reach me: zain.fox.latif@gmail.com
 
 <!---
